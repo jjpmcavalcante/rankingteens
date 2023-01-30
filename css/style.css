@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+body{
+    margin: 0;
+}
+
+.layout-fundo{
+    background-image: url('../img/background.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 170vh;
+}
+@media screen and (min-width: 375px){
+    .layout-fundo{
+        background-size:contain;
+        width: 100vw;
+        height: 200vh;
+    }
+}
+
+@media screen and (min-width: 390px){
+    .layout-fundo{
+        background-size:contain;
+        width: 100vw;
+        height: 165vh;
+    }
+}
+
+@media screen and (min-width: 412px){
+    .layout-fundo{
+        background-size:contain;
+        width: 100vw;
+        height: 160vh;
+    }
+}
+
+@media screen and (min-width: 414px){
+    .layout-fundo{
+        background-size:contain;
+        width: 100vw;
+        height: 165vh;
+    }
+}
+@media screen and (min-width: 50px){
+    .layout-fundo{
+        background-size:contain;
+        width: 100vw;
+        height: 300vh;
+    }
+}
+
+
+
