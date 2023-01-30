@@ -42,7 +42,7 @@ body{
         height: 165vh;
     }
 }
-@media screen and (min-width: 50px){
+@media screen and (min-width: 500px){
     .layout-fundo{
         background-size:contain;
         width: 100vw;
