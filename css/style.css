@@ -9,13 +9,13 @@ body{
     background-size:cover;
     background-repeat: no-repeat;
     width: 100vw;
-    height: 170vh;
+    height: 190vh;
 }
 @media screen and (min-width: 375px){
     .layout-fundo{
         background-size:contain;
         width: 100vw;
-        height: 200vh;
+        height: 220vh;
     }
 }
 
@@ -23,7 +23,7 @@ body{
     .layout-fundo{
         background-size:contain;
         width: 100vw;
-        height: 165vh;
+        height: 180vh;
     }
 }
 
@@ -31,7 +31,7 @@ body{
     .layout-fundo{
         background-size:contain;
         width: 100vw;
-        height: 160vh;
+        height: 175vh;
     }
 }
 
@@ -39,7 +39,7 @@ body{
     .layout-fundo{
         background-size:contain;
         width: 100vw;
-        height: 165vh;
+        height: 180vh;
     }
 }
 @media screen and (min-width: 500px){
